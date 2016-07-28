@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="UploadToGoogleDrive.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="clientId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">92648914869-d6j7m9g27rrtbir8fi924pp30efehp5q.apps.googleusercontent.com</Value>
+    </Setting>
+    <Setting Name="clientSecret" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Kdru00w5MAIXm5e1y9oymT0Z</Value>
+    </Setting>
+    <Setting Name="backupFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Backup</Value>
+    </Setting>
+    <Setting Name="inFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">In</Value>
+    </Setting>
+    <Setting Name="outFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Out</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
